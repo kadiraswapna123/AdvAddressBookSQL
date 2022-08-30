@@ -36,3 +36,4 @@ select count(type) as counting from Address_Book
 ---UC11 add same person as both friend and family
 insert into Address_Book values
 ('Sathvika','Yadav','ShantiNagar','Nalgonda','Telangana','508001','9912672544','sathviksree@gmail.com','one','family')
+--UC12
